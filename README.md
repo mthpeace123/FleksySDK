@@ -24,4 +24,5 @@ If you are using a custom view that is not extending UITextField/UITextView, imp
 Please see the [Wiki](https://github.com/Fleksy/FleksySDK/wiki) and use the [Issues](https://github.com/Fleksy/FleksySDK/issues) page for making feature requests and reporting issues.
 
 ## _Happy Typing!_
+![Fleksy SDK Keyboard Specs](http://fleksy.com/2014/wp-content/uploads/2014/02/Github-Banner-Footer.png)
 ©2013-2014 Fleksy, v1.0
