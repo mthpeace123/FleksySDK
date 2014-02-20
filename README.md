@@ -12,7 +12,7 @@ Give your users the choice of an alternative keyboard for the _first time ever_ 
 
 **That’s it!** _(no code is required)_
 
-Users can now switch to Fleksy by invoking the Edit menu on any input field (long tap or double tap).
+Users can now switch between Fleksy and the iOS keyboard by invoking the Edit menu on any input field (long tap or double tap).
 
 ![Fleksy Edit menu switch](http://fleksy.com/2014/wp-content/uploads/2014/02/Git-Banner-Switch4.png)
 
