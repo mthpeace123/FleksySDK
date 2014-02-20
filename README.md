@@ -1,6 +1,5 @@
-Fleksy Keyboard for iOS
-=================
-©2013-2014 Fleksy, v1.0
+## Fleksy Keyboard for iOS
+![Fleksy Keyboard SDK](http://fleksy.com/2014/wp-content/uploads/2014/02/Git-Banner21.png)
 
 Give your users the choice of an alternative keyboard for the _first time ever_ on iOS!
 
@@ -25,4 +24,4 @@ If you are using a custom view that is not extending UITextField/UITextView, imp
 Please see the [Wiki](https://github.com/Fleksy/FleksySDK/wiki) and use the [Issues](https://github.com/Fleksy/FleksySDK/issues) page for making feature requests and reporting issues.
 
 ## _Happy Typing!_
-
+©2013-2014 Fleksy, v1.0
