@@ -14,7 +14,7 @@ Give your users the choice of an alternative keyboard for the _first time ever_ 
 
 Users can now switch between Fleksy and the iOS keyboard by invoking the Edit menu on any input field (long tap or double tap).
 
-![Fleksy Edit menu switch](http://fleksy.com/2014/wp-content/uploads/2014/02/Fleksy-Keyboard-Switch-03.gif)
+![Fleksy Edit menu switch](http://fleksy.com/2014/wp-content/uploads/2014/02/Fleksy-Keyboard-Switch-04.gif)
 
 ## Affiliate setup
 Optionally, implement this in your UIApplicationDelegate and return your affiliate ID: `- (NSString *)fleksyAffiliateID;`
